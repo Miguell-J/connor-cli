@@ -1,0 +1,16 @@
+langchain
+openai
+pydub
+sounddevice
+whispercpp
+tqdm
+prompt_toolkit
+rich
+numpy
+colorama
+pyttsx3
+typer
+termcolor
+fuzzywuzzy
+python-Levenshtein
+simpleaudio
